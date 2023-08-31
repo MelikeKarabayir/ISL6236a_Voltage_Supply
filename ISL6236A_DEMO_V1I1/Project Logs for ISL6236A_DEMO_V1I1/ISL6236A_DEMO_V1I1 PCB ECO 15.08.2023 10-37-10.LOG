@@ -1,0 +1,8 @@
+Change Component Library : Designator=C3 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C4 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V PVCC Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R3-2
+Added Net: Name=NetC4_1

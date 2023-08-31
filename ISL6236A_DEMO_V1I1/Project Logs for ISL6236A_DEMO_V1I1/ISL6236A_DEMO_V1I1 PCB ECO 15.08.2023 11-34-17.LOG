@@ -1,0 +1,8 @@
+Change Component Library : Designator=R1 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=R2 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=R13 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=R15 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Added Pin To Net: NetName=+5V PVCC Pin=R1-1
+Added Pin To Net: NetName=+VIN Pin=R2-1
+Added Pin To Net: NetName=FB1 Pin=R13-1
+Added Pin To Net: NetName=REFIN2 Pin=R15-1

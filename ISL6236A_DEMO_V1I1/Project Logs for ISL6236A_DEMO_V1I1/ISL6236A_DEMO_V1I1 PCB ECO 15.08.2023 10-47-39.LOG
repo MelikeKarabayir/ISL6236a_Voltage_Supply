@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PHASE1 Pin=C7-2
+Added Component: Designator=C7(C0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/C0805C104K5RACTU-KEMET-datasheet-101576148.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/C0805C104K5RACTU-KEMET-datasheet-101576148.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/C0805C104K5RAC-TU-Kemet-datasheet-32036385.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/C0805C104K5RAC-TU-Kemet-datasheet-32036385.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com/C0805C104K5RAC-TU-Kemet-datasheet-5313890.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com/C0805C104K5RAC-TU-Kemet-datasheet-5313890.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/C0805C104K5RACTU-KEMET-datasheet-164512540.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/C0805C104K5RACTU-KEMET-datasheet-164512540.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104K5RAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,13, 10=0,092, 50=0,052, 100=0,0431, 500=0,03024, 1000=0,02504 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "2423632"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "399-C0805C104K5RAC7800DKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PHASE1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R4-1
+Added Net: Name=NetC7_2

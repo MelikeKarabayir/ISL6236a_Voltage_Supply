@@ -1,0 +1,25 @@
+Change Component Library : Designator=C2 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C5 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C6 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C8 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C9 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C10 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C11 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Added Pin To Net: NetName=+VIN Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Add Pin To Net: Unknown Pin: Pin C3-40
+Add Pin To Net: Unknown Pin: Pin C3-41
+Add Pin To Net: Unknown Pin: Pin C4-40
+Add Pin To Net: Unknown Pin: Pin C4-41
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+VIN Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+VIN Pin=C6-2
+Added Pin To Net: NetName=PHASE2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+VREF3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R5-2
+Added Net: Name=NetC8_1

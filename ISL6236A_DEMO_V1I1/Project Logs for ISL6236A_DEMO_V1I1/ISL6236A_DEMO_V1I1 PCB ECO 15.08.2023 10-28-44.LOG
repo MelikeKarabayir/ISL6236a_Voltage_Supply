@@ -1,0 +1,26 @@
+Change Component Library : Designator=C7 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Change Component Library : Designator=C12 Old Library=ISL6236A_DEMO.SchLib New Library=ISL6236A_DEMO_V1I1.SchLib
+Add Pin To Net: Unknown Pin: Pin C1-42
+Add Pin To Net: Unknown Pin: Pin C1-43
+Add Pin To Net: Unknown Pin: Pin C2-42
+Add Pin To Net: Unknown Pin: Pin C2-43
+Add Pin To Net: Unknown Pin: Pin C3-40
+Add Pin To Net: Unknown Pin: Pin C3-41
+Add Pin To Net: Unknown Pin: Pin C4-40
+Add Pin To Net: Unknown Pin: Pin C4-41
+Add Pin To Net: Unknown Pin: Pin C5-42
+Add Pin To Net: Unknown Pin: Pin C5-43
+Add Pin To Net: Unknown Pin: Pin C6-42
+Add Pin To Net: Unknown Pin: Pin C6-43
+Added Pin To Net: NetName=PHASE1 Pin=C7-2
+Add Pin To Net: Unknown Pin: Pin C8-42
+Add Pin To Net: Unknown Pin: Pin C8-43
+Add Pin To Net: Unknown Pin: Pin C9-43
+Add Pin To Net: Unknown Pin: Pin C10-43
+Add Pin To Net: Unknown Pin: Pin C11-40
+Add Pin To Net: Unknown Pin: Pin C11-41
+Added Pin To Net: NetName=+REF Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R4-1
+Added Net: Name=NetC7_1
